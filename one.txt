@@ -3,4 +3,4 @@
 dv add func1
 code onclick111
 code onclick22
-
+dv onclick
